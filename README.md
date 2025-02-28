@@ -1,5 +1,23 @@
 # curotec-test-backend
 
+# My Movies API
+
+A RESTful API that allows users to manage their movie-watching experience. Users can track movies they've watched and maintain a collection of their favorite films.
+
+## Key Features
+- Track watched movies
+- Manage favorite movies list
+- User authentication and profiles
+- Movie details and ratings
+- Personal movie notes and reviews
+
+## Technologies
+- Python
+- FastAPI
+- PostgreSQL
+- Docker
+- JWT Authentication
+
 ## Commit Conventions
 
 To maintain an organized and standardized commit history, we use the following tags:
